@@ -6,7 +6,8 @@
 
 
     3D-DWT Motion Detector  
- Developed by: Sahar Yousefi
+    
+    Developed by: Sahar Yousefi
  
  
 #######################################################
