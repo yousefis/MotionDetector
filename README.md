@@ -27,4 +27,5 @@ Run:
 
 Acknowledge:
 This toolbox is impelemented based on the package: 
+
 S. Cai, K. Li, and I. Selesnick. Matlab Implementation of Wavelet Transforms. Retrieved from http://eeweb.poly.edu/iselesni/WaveletSoftware on February 13, 2018.
