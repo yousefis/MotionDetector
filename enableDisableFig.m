@@ -4,6 +4,7 @@ function currentState = enableDisableFig(hFig, newState)
 % Syntax:
 %    currentState = enableDisableFig(hFig, newState)
 %
+%
 % Description:
 %    enableDisableFig sets the figure hFig's enable/disable state, which
 %    is otherwise supported by Matlab only for specific components but not
