@@ -39,7 +39,6 @@ Results:
 
 ![Alt Text](image250.gif)
 
-![Alt Text](image250.gif)
 
 
 
