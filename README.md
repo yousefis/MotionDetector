@@ -13,12 +13,14 @@
 #######################################################
 #######################################################
 
-![Alt Text](image15.gif)
-
 for more information : http://dspl.ce.sharif.edu/motiondetector.html
 
 Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
+![Alt Text](image170.png)
+
+*[Team Members](#team-members)
+#<a Sahar Yousefi="s.yousefi.radi@lumc.nl"></a> Sahar Yousefi
 
 Run:
 'main.m' 
