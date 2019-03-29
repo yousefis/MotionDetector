@@ -51,11 +51,16 @@ Marius Staring <a href="m.staring@lumc.nl">m.staring@lumc.nl</a>
 
 ![Alt Text](image250.gif)
 
+## Licence
+You are welcome to use this code in your own work. If you use this code, please cite the below paper:
 
-
+<a href="https://ieeexplore.ieee.org/abstract/document/8561242/">A Novel Motion Detection Method Using 3D Discrete Wavelet Transform</a>
 
 ## Acknowledgments
 
 Thanks to S. Cai et al.[1] for their Wavelet Transforms package. 
 
 1. S. Cai, K. Li, and I. Selesnick. Matlab Implementation of Wavelet Transforms. Retrieved from http://eeweb.poly.edu/iselesni/WaveletSoftware on February 13, 2018.
+
+
+
