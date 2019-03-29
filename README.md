@@ -19,8 +19,8 @@ Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
 ![Alt Text](image170.png)
 
-*[Team Members](#team-members)
-#<a Sahar Yousefi="s.yousefi.radi@lumc.nl"></a> Sahar Yousefi
+
+<a name="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
 
 Run:
 'main.m' 
