@@ -23,7 +23,9 @@ Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 <a name="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
 
 Run:
-'main.m' 
+    main.m
+    
+## Proposed method flow diagram 
 
 ![Alt Text](image170.png)
 
