@@ -17,14 +17,15 @@ for more information : http://dspl.ce.sharif.edu/motiondetector.html
 
 Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
-![Alt Text](image170.png)
 
+## Team Member
 
 <a name="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
 
 Run:
 'main.m' 
 
+![Alt Text](image170.png)
 
 
 Results:
