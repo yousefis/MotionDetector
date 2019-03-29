@@ -20,9 +20,9 @@ Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
 ## Team Members
 
-<a name="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
+<a Sahar Yousefi="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
 
-Run:
+## Run:
     main.m
     
 ## Flow diagram 
