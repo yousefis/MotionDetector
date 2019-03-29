@@ -13,7 +13,7 @@
 #######################################################
 #######################################################
 
-![Alt Text](https://github.com/yousefis/MotionDetector/blob/master/image15.gif)
+![Alt Text](image15.gif)
 
 for more information : http://dspl.ce.sharif.edu/motiondetector.html
 
