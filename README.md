@@ -18,7 +18,7 @@ for more information : http://dspl.ce.sharif.edu/motiondetector.html
 Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
 
-## Team Member
+## Team Members
 
 <a name="s.yousefi.radi@lumc.nl"></a>Sahar Yousefi
 
@@ -28,7 +28,7 @@ Run:
 ![Alt Text](image170.png)
 
 
-Results:
+## Results
 
 ![Alt Text](image256.gif)
 
@@ -45,7 +45,7 @@ Results:
 
 
 
-Acknowledge:
+## Acknowledgments
 
 
 Thanks to S. Cai et al.[1] for their Wavelet Transforms package. 
