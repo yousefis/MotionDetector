@@ -25,7 +25,7 @@ Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 Run:
     main.m
     
-## Proposed method flow diagram 
+## Flow diagram 
 
 ![Alt Text](image170.png)
 
