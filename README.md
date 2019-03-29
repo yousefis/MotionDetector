@@ -51,6 +51,10 @@ Marius Staring <a href="m.staring@lumc.nl">m.staring@lumc.nl</a>
 
 ![Alt Text](image250.gif)
 
+![Alt Text](image253.png)
+
+Quantitative comparision between the proposed methods and the other methods 
+
 ## Licence
 You are welcome to use this code in your own work. If you use this code, please cite the below paper:
 
