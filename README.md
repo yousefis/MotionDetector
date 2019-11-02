@@ -39,19 +39,19 @@ Flow diagram of the proposed method. The input is a sequence of video frames; St
 
 ## Results
 
-![Alt Text](image256.gif)
+![Alt Text](figure/image256.gif)
 
-![Alt Text](image255.gif)
+![Alt Text](figure/image255.gif)
 
-![Alt Text](image254.gif)
+![Alt Text](figure/image254.gif)
 
-![Alt Text](image253.gif)
+![Alt Text](figure/image253.gif)
 
 ![Alt Text](figure/image252.gif)
 
-![Alt Text](image250.gif)
+![Alt Text](figure/image250.gif)
 
-![Alt Text](image253.png)
+![Alt Text](figure/image253.png)
 
 <p>Quantitative comparision between the proposed method and the other methods</p>
 
