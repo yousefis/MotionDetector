@@ -47,7 +47,7 @@ Flow diagram of the proposed method. The input is a sequence of video frames; St
 
 ![Alt Text](image253.gif)
 
-![Alt Text](image252.gif)
+![Alt Text](figure/image252.gif)
 
 ![Alt Text](image250.gif)
 
