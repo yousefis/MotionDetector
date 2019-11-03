@@ -8,7 +8,8 @@
     3D-DWT Motion Detector  
     
     Developed by: Sahar Yousefi
- 
+
+    <a href="https://ieeexplore.ieee.org/abstract/document/8561242/">A Novel Motion Detection Method Using 3D Discrete Wavelet Transform</a> 
  
 #######################################################
 #######################################################
@@ -41,7 +42,7 @@ Flow diagram of the proposed method. The input is a sequence of video frames; St
 
 ![Alt Text](figure/image256.gif)
 
-Left to right: Original video, MDT, proposed approach
+Left to right: original video, MDT, proposed method
 
 ![Alt Text](figure/image255.gif)
 
@@ -64,9 +65,8 @@ You are welcome to use this code in your own work. If you use this code, please 
 
 ## Acknowledgments
 
-Thanks to S. Cai et al.[*] for their Wavelet Transforms package. 
+Thanks to S. Cai, K. Li, and I. Selesnick for their Wavelet Transforms package. 
 
-*S. Cai, K. Li, and I. Selesnick. Matlab Implementation of Wavelet Transforms. Retrieved from http://eeweb.poly.edu/iselesni/WaveletSoftware on February 13, 2018.
 
 
 
