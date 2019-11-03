@@ -41,6 +41,8 @@ Flow diagram of the proposed method. The input is a sequence of video frames; St
 
 ![Alt Text](figure/image256.gif)
 
+Left to right: Original video, MDT, proposed approach
+
 ![Alt Text](figure/image255.gif)
 
 ![Alt Text](figure/image254.gif)
