@@ -9,12 +9,12 @@
     
     Developed by: Sahar Yousefi
 
-    <a href="https://ieeexplore.ieee.org/abstract/document/8561242/">A Novel Motion Detection Method Using 3D Discrete Wavelet Transform</a> 
  
 #######################################################
 #######################################################
 
-for more information : http://dspl.ce.sharif.edu/motiondetector.html
+for more information :     <a href="https://ieeexplore.ieee.org/abstract/document/8561242/">A Novel Motion Detection Method Using 3D Discrete Wavelet Transform</a> 
+
 
 Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
