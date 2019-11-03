@@ -46,6 +46,8 @@ Left to right: original video, MDT, proposed method
 
 ![Alt Text](figure/image255.gif)
 
+Left to right: original video, MDT, proposed method
+
 ![Alt Text](figure/image254.gif)
 
 ![Alt Text](figure/image253.gif)
