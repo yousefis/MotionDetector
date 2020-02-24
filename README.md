@@ -67,7 +67,7 @@ You are welcome to use this code in your own work. If you use this code, please 
 
 ## Acknowledgments
 
-Thanks to S. Cai, K. Li, and I. Selesnick for their Wavelet Transforms package. 
+We acknowledge S. Cai, K. Li, and I. Selesnick for the Wavelet Transforms package. 
 
 
 
