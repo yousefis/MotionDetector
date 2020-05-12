@@ -19,15 +19,7 @@ for more information :     <a href="https://ieeexplore.ieee.org/abstract/documen
 Team: Sahar Yousefi, M.T. Manzuri Shalmani, Jeremy Lin, Marius Staring
 
 
-## Team Members
 
-Sahar Yousefi <a href="s.yousefi.radi@lumc.nl">s.yousefi.radi@lumc.nl</a>
-
-M.T. Manzuri Shalmani <a href="manzuri@sharif.edu">manzuri@sharif.edu</a>
-
-Jeremy Lin <a href="Jeremy.Lin@pjm.com">Jeremy.Lin@pjm.com</a>
-
-Marius Staring <a href="m.staring@lumc.nl">m.staring@lumc.nl</a>
 
 ## Run:
     main.m
