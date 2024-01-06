@@ -53,7 +53,7 @@ Left to right: original video, MDT, proposed method
 
 <p>Quantitative comparision between the proposed method and the other methods</p>
 
-## Licence
+## License
 You are welcome to use this code in your own work. If you use this code, please cite the below paper:
 
 <a href="https://ieeexplore.ieee.org/abstract/document/8561242/">A Novel Motion Detection Method Using 3D Discrete Wavelet Transform</a>
